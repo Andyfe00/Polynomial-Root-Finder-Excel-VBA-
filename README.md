@@ -48,3 +48,10 @@ The file **`Ceros De Funciones.xlsm`** contains a complete VBA-based system that
    - **Newton** → specify initial point and error tolerance.
 7. Click **“Calcule”** to run the method.
 8. The program will automatically generate an **iteration table** showing all steps, function values, and errors.
+
+> ⚠️ Academic Disclaimer  
+> This project was developed by **Andrés Felipe Porras** as part of the  
+> Metodos Numericos module at **Universidad Militar Nueva Granada (2017–2021)**.  
+> The content is shared for educational and portfolio purposes only.  
+> No proprietary or restricted university materials are included.
+
